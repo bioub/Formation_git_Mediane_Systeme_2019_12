@@ -11,3 +11,5 @@ Documentation qui répertorie les commandes vues pendant la formation
 * `git commit`
 * `git status`
 * `git diff`
+
+## Commandes sur l'historique
