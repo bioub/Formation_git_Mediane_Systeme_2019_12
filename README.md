@@ -9,3 +9,4 @@ Documentation qui répertorie les commandes vues pendant la formation
 * `git init`
 * `git add`
 * `git commit`
+* `git status`
