@@ -1,0 +1,3 @@
+[submodule "exercices/branches"]
+	path = exercices/branches
+	url = https://gitlab.com/exercices-git/branches
