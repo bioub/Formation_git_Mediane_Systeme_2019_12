@@ -21,3 +21,4 @@ Documentation qui répertorie les commandes vues pendant la formation
 ## Commandes sur les remotes
 
 * `git push`
+* `git fetch`
