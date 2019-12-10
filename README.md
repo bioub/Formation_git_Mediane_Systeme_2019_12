@@ -13,3 +13,7 @@ Documentation qui répertorie les commandes vues pendant la formation
 * `git diff`
 
 ## Commandes sur l'historique
+
+* `git reset`
+* `git commit --amend`
+* `git rebase`
