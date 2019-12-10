@@ -18,6 +18,12 @@ Documentation qui répertorie les commandes vues pendant la formation
 * `git commit --amend`
 * `git rebase`
 
+## Commandes sur les branches
+
+* `git branch`
+* `git merge`
+* `git rebase`
+
 ## Commandes sur les remotes
 
 * `git push`
