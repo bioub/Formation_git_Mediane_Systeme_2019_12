@@ -17,3 +17,7 @@ Documentation qui répertorie les commandes vues pendant la formation
 * `git reset`
 * `git commit --amend`
 * `git rebase`
+
+## Commandes sur les remotes
+
+* `git push`
